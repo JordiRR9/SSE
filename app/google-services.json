@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "557729476930",
+    "project_id": "sse-energia",
+    "storage_bucket": "sse-energia.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:557729476930:android:d6fb4b8fb9e634437558db",
+        "android_client_info": {
+          "package_name": "com.example.sse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "557729476930-8fsora8glmi4gg3k9i9am9uac23a50nq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLHHsXQZoYtRwKZ91j8Ay1TWuj45TVWRM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "557729476930-8fsora8glmi4gg3k9i9am9uac23a50nq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

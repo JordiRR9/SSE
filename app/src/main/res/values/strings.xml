@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">SSE Energia CLM</string>
+    <string name="label">label</string>
+    <string name="user">User</string>
+    <string name="password">Password</string>
+    <string name="name">Name</string>
+    <string name="surnames">Surname</string>
+    <string name="text">Write your text here</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+    <string name="acercaDe">SSE Energia Castilla la Mancha is an independent energy consultancy. Our main concern is the well-being of our clients, getting them to pay the minimum for their electricity consumption.</string>
+    <string name="acercaDeBoton">About us</string>
+    <string name="volver">Return</string>
+    <string name="contactanos">Send us an e-mail</string>
+    <string name="llamanos">Call us</string>
+    <string name="contactanosText">Contact us through one of the methods that you can find below or come to our office if you want a more personal treatment. You can find our office location in the "About us" tab \n You can also check the daily price for KWh</string>
+    <string name="selectArea">Select area</string>
+    <string name="enter">Enter</string>
+    <string name="media">Average price</string>
+    <string name="highest">Highest price</string>
+    <string name="lowest">Lowest price</string>
+    <string name="consultarUsuario">Check customer</string>
+    <string name="agregarCliente">Add new customer</string>
+    <string name="registrarCliente">Register a new customer</string>
+    <string name="agregar">Add</string>
+    <string name="Id">ID</string>
+    <string name="Telephone">Telephone</string>
+    <string name="actualizarPrecios">Update KWh price</string>
+    <string name="guardar">Save</string>
+    <string name="preferencias">Preferences</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="ReproducirVideo">Play Vídeo</string>
+    <string name="spot">Watch our spot</string>
+    <string name="consultaReuniones">Check meetings</string>
+    <string name="webpage">Webpage</string>
+    <string name="hereYourText">Your text will be shown there</string>
+
+    <string name="messages_header">Messages</string>
+    <string name="sync_header">Sync</string>
+    <string name="code">Telephone code</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title">Your signature</string>
+    <string name="reply_title">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title">Sync email periodically</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+
+
+</resources>

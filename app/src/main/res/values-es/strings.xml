@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">SSE Energia CLM</string>
+    <string name="label">label</string>
+    <string name="user">Usuario</string>
+    <string name="password">Contraseña</string>
+    <string name="name">Nombre</string>
+    <string name="surnames">Apellidos</string>
+    <string name="text">Escriba aquí su texto</string>
+    <string name="next">Siguiente</string>
+    <string name="previous">Anterior</string>
+    <string name="acercaDe" translatable="false">SSE Energía Castilla la Mancha es una consultoría energética independiente. Nuestro principal afan es el bienestar de nuestros clientes, consiguiendo que paguen el mínimo por su consumo eléctrico.</string>
+    <string name="acercaDeBoton">Acerca de</string>
+    <string name="volver">Volver</string>
+    <string name="contactanos">Envíanos un e-mail</string>
+    <string name="llamanos">Llámanos</string>
+    <string name="contactanosText">Contacte con nosotros a través de uno de los métodos que puede encontrar debajo o acuda a nuestra oficina si desea un trato más personal. Puede encontrar la ubicación de nuestra oficina en la pestaña "Acerca de"\nAdemás, puedes consultar los precios medios diarios del KWh</string>
+    <string name="selectArea">Selección de área</string>
+    <string name="enter">Entrar</string>
+    <string name="media">Precio medio</string>
+    <string name="highest">Precio más alto</string>
+    <string name="lowest">Precio más bajo</string>
+    <string name="consultarUsuario">Consultar cliente</string>
+    <string name="agregarCliente">Añadir cliente nuevo</string>
+    <string name="registrarCliente">Registrar nuevo usuario</string>
+    <string name="agregar">Agregar</string>
+    <string name="Id">ID</string>
+    <string name="Telephone">Teléfono</string>
+    <string name="actualizarPrecios">Actualizar precio KWh</string>
+    <string name="guardar">Guardar</string>
+    <string name="preferencias">Preferencias</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="messages_header">Mensajes</string>
+    <string name="sync_header">Sincronizar</string>
+    <string name="signature_title">Tu firma</string>
+    <string name="reply_title">Responder</string>
+    <string name="sync_title">Sincronizar e-mail automáticamente</string>
+    <string name="attachment_title">Download incoming attachments</string>
+    <string name="attachment_summary_on">Automatically download attachments for incoming emails</string>
+    <string name="ReproducirVideo">Reproducir Vídeo</string>
+    <string name="attachment_summary_off">Only download attachments when manually requested</string>
+    <string name="code">Código telefónico</string>
+    <string name="spot">Mira nuestro spot publicitario</string>
+    <string name="consultaReuniones">Consultar reuniones</string>
+   <string name="webpage">Página web</string>
+    <string name="hereYourText">Aquí irá tu texto</string>
+
+</resources>
